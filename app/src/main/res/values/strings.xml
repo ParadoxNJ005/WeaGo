@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Text-it</string>
+    <string name="web_client_id">202456630298-j3tqgsmkkaa24l7fii6vk1srldlg8jh6.apps.googleusercontent.com</string>
+
+    <string name="facebook_app_id">907911547051338</string>
+    <string name="fb_login_protocol_scheme">fb907911547051338</string>
+    <string name="facebook_client_token">dab4658139df3c88053919710675c677</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
